@@ -431,7 +431,6 @@ header {
 @media only screen and (max-width: 494px) {
   html {
     box-sizing: border-box;
-    font-size: 28%; /* 1rem = 10px, 10px/16px = 62.5%  */
     line-height: 1.4;
   }
 }
